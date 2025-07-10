@@ -156,3 +156,13 @@ body {
 .mb-48 {
   margin-bottom: 48px;
 }
+
+/* page */
+.header {
+  background-image: url(/img/hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 152px 0;
+  text-align: center;
+}
