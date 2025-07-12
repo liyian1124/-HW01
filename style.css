@@ -166,6 +166,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+.hero-section {
   padding: 152px 0;
   text-align: center;
 }
@@ -213,4 +215,8 @@ body {
 .brandstory-link-text {
   padding-bottom: 4px;
   border-bottom: 1px solid var(--primary-400);
+}
+
+.footer {
+  text-align: center;
 }
