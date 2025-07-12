@@ -166,3 +166,18 @@ body {
   padding: 152px 0;
   text-align: center;
 }
+
+.quote {
+  border-radius: 12px;
+  text-align: center;
+}
+
+.intro img {
+  width: 1076px;
+  margin-right: -110px;
+  margin-left: -110px;
+}
+
+.section-lined {
+  border-bottom: 1px solid var(--neutral-300);
+}
